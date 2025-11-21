@@ -1,0 +1,7 @@
+2025-01-01 10:15:22 INFO User login successful for user: admin
+2025-01-01 10:16:10 DEBUG Session token generated
+2025-01-01 10:17:55 WARN CPU usage exceeded 85%
+2025-01-01 10:18:22 ERROR Failed to load configuration file
+2025-01-01 10:20:47 INFO Background job completed
+2025-01-01 10:22:33 DEBUG Checking service dependencies
+2025-01-01 10:23:41 WARN Disk space below 20%
